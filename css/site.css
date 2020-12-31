@@ -1,0 +1,48 @@
+body {
+    background-color: #eee;
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    background: #fff;
+    height: 100px;
+}
+
+.container {
+    max-width: 700px;
+    border-radius: 3px;
+    box-shadow: 1px 1px 2px #DAD7D7;
+    background: #fff;
+}
+
+.header {
+    padding: 20px;
+    background: #fff;
+}
+
+.header .full-name {
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.header .first-name {
+    font-weight: 700;
+}
+
+.header .last-name {
+    font-weight: 300;
+}
+
+.header .contact-info {
+    margin-bottom: 20px;
+}
+
+.header .email {
+    color: #999;
+    font-weight: 300;
+}
+
+.navigation li {
+    border-right: 1px solid #eee;
+}
